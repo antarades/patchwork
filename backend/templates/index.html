@@ -32,7 +32,7 @@
   </div>
 </div>
 <audio id="bg-music" loop>
-  <source src="/static/ambient.mp3" type="audio/mp3">
+  <source src="{{ url_for('static', filename='ambient.mp3') }}" type="audio/mp3">
 </audio>
 <button id="music-toggle">🔇</button>
   <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
