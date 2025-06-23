@@ -88,7 +88,6 @@ patchwork/
 │   └── ambient.mp3         # Optional ambient music
 ├── templates/
 │   ├── index.html          # Main interface
-│   └── my_patches.html     # (optional) personal diary
 ├── requirements.txt
 └── README.md
 ```
