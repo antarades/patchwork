@@ -20,7 +20,9 @@ Patchwork is a soothing digital space where people anonymously “sew” their e
 ---
 
 ## 🚀 Live Demo
-Coming soon on [Render](https://render.com/) – or run locally below.
+You can try the project here: [🌸 Patchwork](https://patchwork-ondo.onrender.com)
+
+Feel free to explore the quilt, share a feeling, and see what the AI has to say! 🌸
 
 ---
 
