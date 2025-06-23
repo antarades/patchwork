@@ -100,6 +100,25 @@ Patchwork was created to explore digital vulnerability and communal healing — 
 
 ---
 
+## 🌱 Future Enhancements
+
+🧵 Patch Replies
+Allow users to reply to a patch with their own — building emotional threads and soft conversations.
+
+🧭 Emotion-Based Quilt Filters
+Add filters (e.g., “Show only calm patches”) or category toggles for exploring collective moods.
+
+🗺️ Anonymous Geo Tags
+Show patch origin by country (using IP geolocation) to emphasize global connection.
+
+🛠️ Switchable Themes
+Let users toggle between Light Mode, Soft Pastel Mode, and Dark Velvet Mode.
+
+📬 Affirmation Archive
+Curated AI-generated lines in a soft-scrollable “Affirmation Garden”.
+
+---
+
 ## 📃 License
 MIT License. Free to use and modify.
 
